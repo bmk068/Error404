@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
     <style name="Theme.Project3443" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
 
+=======
+
+    <style name="Theme.Project3443" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
+>>>>>>> 4f7052a (first commit)
