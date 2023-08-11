@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">Error404</string>
+    <string name="app_name">Project3443</string>
+    <string name="username">Username:</string>
+    <string name="email">Email:</string>
+    <string name="back">Back</string>
+    <string name="workplan">Workout Plan</string>
+    <string name="workButton">Workout</string>
+    <string name="chooseWork">Choose Workout:</string>
+    <string name="worktype">workout</string>
+    <string name="calories">Calories:</string>
+    <string name="backbutton">Return</string>
+    <string name="submit">Submit</string>
+    <string name="time">Time:</string>
+    <string name="timeSpent">Time in minutes</string>
+    <string name="logout">Logout</string>
+    <string name="accregister">Account Registration</string>
+    <string name="register_instructions">Please fill in ALL data below.</string>
+    <string name="password">Password:</string>
+    <string name="repassword">Re-password:</string>
+    <string name="name">Name:</string>
+    <string name="weight">Weight:</string>
+    <string name="weightlbs">Weight in pounds</string>
+    <string name="mealplan">Meal Plan</string>
+    <string name="choosemeal">Choose Meal</string>
+    <string name="amount">Amount:</string>
 </resources>
